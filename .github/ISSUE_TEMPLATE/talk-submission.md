@@ -7,13 +7,15 @@ assignees: ''
 
 ---
 
+**Nb: talks can be in English or in French, both are welcome :)**
+
 # <Talk>
 
 ## About the talk:
 
 ### Content:
 
-*2 to 5 lines describing what you would like the talk to be about :)*
+*2 to 5 lines describing what you would like the talk to be about.*
 
 ### Duration:
 
